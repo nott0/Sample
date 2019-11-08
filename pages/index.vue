@@ -36,7 +36,7 @@
             nuxt
             to="/about"
           >
-            Continue
+            Continue2
           </v-btn>
         </v-card-actions>
       </v-card>
