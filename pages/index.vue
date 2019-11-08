@@ -34,7 +34,7 @@
           <v-btn
             color="primary"
             nuxt
-            herf="https://www.google.com"
+            to="/about"
           >
             Continue
           </v-btn>
